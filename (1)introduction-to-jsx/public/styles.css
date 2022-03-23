@@ -1,0 +1,19 @@
+.heading {
+  color: blue;
+}
+
+ul {
+  color: green;
+}
+
+.divColorBlack {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+}
+
+.divColorYellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+}
